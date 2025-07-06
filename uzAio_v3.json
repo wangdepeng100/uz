@@ -32,6 +32,25 @@
   ],
   "vod": [
     {
+      "name": "官解 | 猫咪",
+      "version": 5,
+      "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
+      "webSite": "https://zy.xmm.hk/api.php/provide/vod",
+      "order": "A",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms.js",
+      "type": 101
+    },
+    {
+      "name": "官解 | 猫咪",
+      "version": 3,
+      "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
+      "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
+      "webSite": "https://zy.xmm.hk/api.php/provide/vod",
+      "order": "A",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms2.js",
+      "type": 101
+    },
+    {
       "name": "TG搜 | 4K",
       "version": 6,
       "remark": "",
