@@ -32,7 +32,7 @@
   ],
   "vod": [
     {
-      "name": "官解 | 4K",
+      "name": "猫咪 | 官解",
       "version": 5,
       "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
       "webSite": "https://zy.xmm.hk/api.php/provide/vod",
@@ -41,7 +41,7 @@
       "type": 101
     },
     {
-      "name": "官解 | 4K",
+      "name": "猫咪 | 官解",
       "version": 3,
       "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
       "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
@@ -51,7 +51,7 @@
       "type": 101
     },
     {
-      "name": "TG搜 | 4K",
+      "name": "TG搜 | 网盘",
       "version": 6,
       "remark": "",
       "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
@@ -60,7 +60,7 @@
       "type": 101
     },
     {
-      "name": "TG纯搜 | 4K",
+      "name": "TG搜 | 搜索",
       "version": 5,
       "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
@@ -69,98 +69,91 @@
       "type": 101
     },
     {
-      "name": "玩偶 | 4K",
+      "name": "玩偶 | 网盘",
       "version": 3,
       "webSite": "http://wogg.xxooo.cf",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/wobg.js",
       "type": 101
     },
     {
-      "name": "木偶 | 4K",
+      "name": "木偶 | 网盘",
       "version": 2,
       "webSite": "https://666.666291.xyz",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
       "type": 101
     },
     {
-      "name": "闪电 | 4K",
+      "name": "闪电 | 网盘",
       "version": 1,
       "webSite": "http://1.95.79.193/",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/shandian.js",
       "type": 101
     },
     {
-      "name": "蜡笔 | 4K",
+      "name": "蜡笔 | 网盘",
       "version": 3,
       "webSite": "http://feimaoai.site",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/labipan.js",
       "type": 101
     },
     {
-      "name": "虎斑 | 4K",
+      "name": "虎斑 | 网盘",
       "version": 1,
       "webSite": "http://103.45.162.207:20720",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/huban.js",
       "type": 101
     },
     {
-      "name": "二小 | 4K",
+      "name": "二小 | 网盘",
       "version": 1,
       "webSite": "https://2xiaopan.fun",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/erxiao.js",
       "type": 101
     },
     {
-      "name": "小米 | 4K",
+      "name": "小米 | 网盘",
       "version": 3,
       "webSite": "https://xiaomiai.site",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/xiaomi.js",
       "type": 101
     },
     {
-      "name": "至臻 | 4K",
+      "name": "至臻 | 网盘",
       "version": 4,
       "webSite": "http://www.miqk.cc",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zhizhen.js",
       "type": 101
     },
     {
-      "name": "欧歌 | 4K",
+      "name": "欧歌 | 网盘",
       "version": 3,
       "webSite": "https://woog.nxog.eu.org",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/ouge.js",
       "type": 101
     },
     {
-      "name": "多多 | 4K",
+      "name": "多多 | 网盘",
       "version": 3,
       "webSite": "https://tv.yydsys.top",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/duoduo.js",
       "type": 101
     },
     {
-      "name": "奥秘 | 4K",
-      "version": 3,
-      "webSite": "https://vip.omii.top",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/aomipan.js",
-      "type": 101
-    },
-    {
-      "name": "大玩 | 4K",
+      "name": "大玩 | 网盘",
       "version": 1,
       "webSite": "http://149.88.87.18:6688",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/dawanou.js",
       "type": 101
     },
     {
-      "name": "南风 | 4K",
+      "name": "南风 | 网盘",
       "version": 1,
       "webSite": "https://www.nanf.cc",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/nanfdj.js",
       "type": 101
     },
     {
-      "name": "雷鲸 | 4K",
+      "name": "雷鲸 | 网盘",
       "version": 4,
       "remark": "",
       "webSite": "https://www.leijing.xyz",
@@ -170,7 +163,7 @@
       "type": 100
     },
     {
-      "name": "校长 | 4K",
+      "name": "校长 | 网盘",
       "version": 1,
       "remark": "🍃豆儿出品，不属精品！",
       "webSite": "https://xzys.fun",
@@ -179,7 +172,7 @@
       "type": 101
     },
     {
-      "name": "茉莉 | 4K",
+      "name": "茉莉 | 网盘",
       "version": 2,
       "remark": "🍃豆儿出品，不属精品！支持在线播放和网盘",
       "webSite": "https://www.hdmoli.pro/",
@@ -188,7 +181,7 @@
       "type": 101
     },
    {
-      "name": "瓜子 | 2K",
+      "name": "瓜子 | 直链",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
       "webSite": "https://api.9cec79d.com",
@@ -199,7 +192,7 @@
       "type": 100
     },
     {
-      "name": "趣盘 | 4K",
+      "name": "趣盘 | 搜索",
       "version": 3,
       "remark": "",
       "webSite": "https://pan.funletu.com",
@@ -209,7 +202,7 @@
       "type": 100
     },
     {
-      "name": "天逸 | 4K",
+      "name": "天逸 | 搜索",
       "version": 3,
       "remark": "",
       "webSite": "https://www.tianyiso.com",
