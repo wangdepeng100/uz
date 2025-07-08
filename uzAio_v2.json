@@ -35,7 +35,7 @@
       "name": "🐈‍⬛官采",
       "version": 5,
       "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
-      "webSite": "https://zy.xmm.hk/api.php/provide/vod",
+      "webSite": "http://zy.xmm.hk/api.php/provide/vod",
       "order": "A",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms.js",
       "type": 101
