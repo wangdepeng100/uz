@@ -32,7 +32,7 @@
   ],
   "vod": [
     {
-      "name": "猫咪 | 官解",
+      "name": "🐈‍⬛猫咪",
       "version": 5,
       "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
       "webSite": "https://zy.xmm.hk/api.php/provide/vod",
@@ -41,26 +41,16 @@
       "type": 101
     },
     {
-      "name": "猫咪 | 官解",
-      "version": 3,
-      "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
-      "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
-      "webSite": "https://zy.xmm.hk/api.php/provide/vod",
-      "order": "A",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms2.js",
-      "type": 101
-    },
-    {
-      "name": "TG搜 | 网盘",
+      "name": "✈️TG搜",
       "version": 6,
-      "remark": "",
+      "remark": "机场✈️搜网盘源",
       "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
       "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd&夸克UC@ucquark&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
       "type": 101
     },
     {
-      "name": "TG搜 | 搜索",
+      "name": "🔎TG搜",
       "version": 5,
       "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
@@ -69,71 +59,81 @@
       "type": 101
     },
     {
-      "name": "玩偶 | 网盘",
+      "name": "🧸玩偶",
       "version": 3,
       "webSite": "http://wogg.xxooo.cf",
+      "remark": "网盘源💿",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/wobg.js",
       "type": 101
     },
     {
-      "name": "木偶 | 网盘",
+      "name": "🪵木偶",
       "version": 2,
+      "remark": "网盘源💿",
       "webSite": "https://666.666291.xyz",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
       "type": 101
     },
     {
-      "name": "闪电 | 网盘",
+      "name": "⚡闪电",
       "version": 1,
+      "remark": "网盘源💿",
       "webSite": "http://1.95.79.193/",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/shandian.js",
       "type": 101
     },
     {
-      "name": "蜡笔 | 网盘",
+      "name": "🖍️蜡笔",
       "version": 3,
-      "webSite": "http://feimaoai.site",
+      "webSite": "http://www.labi88.sbs",
+      "remark": "网盘源💿",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/labipan.js",
       "type": 101
     },
     {
-      "name": "虎斑 | 网盘",
+      "name": "🐯虎斑",
       "version": 1,
       "webSite": "http://103.45.162.207:20720",
+      "remark": "网盘源💿",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/huban.js",
       "type": 101
     },
     {
-      "name": "二小 | 网盘",
+      "name": "🐮二小",
       "version": 1,
+      "remark": "网盘源💿",
       "webSite": "https://xhww.net/",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/erxiao.js",
       "type": 101
     },
     {
-      "name": "小米 | 网盘",
+      "name": "🌾小米",
       "version": 3,
+      "remark": "网盘源💿",
       "webSite": "https://xiaomiai.site",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/xiaomi.js",
       "type": 101
     },
     {
-      "name": "至臻 | 网盘",
+      "name": "💎至臻",
       "version": 4,
+      "remark": "网盘源💿",
       "webSite": "http://www.miqk.cc",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zhizhen.js",
       "type": 101
     },
     {
-      "name": "欧歌 | 网盘",
+      "name": "🎶欧歌",
       "version": 3,
+      "remark": "网盘源💿",
       "webSite": "https://woog.nxog.eu.org",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/ouge.js",
       "type": 101
     },
     {
-      "name": "多多 | 网盘",
+      "name": "🐼多多",
       "version": 3,
+      "remark": "网盘源💿",
       "webSite": "https://tv.yydsys.top",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/duoduo.js",
       "type": 101
@@ -141,6 +141,7 @@
     {
       "name": "大玩 | 网盘",
       "version": 1,
+      "remark": "网盘源💿",
       "webSite": "http://149.88.87.18:6688",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/dawanou.js",
       "type": 101
@@ -148,14 +149,15 @@
     {
       "name": "南风 | 网盘",
       "version": 1,
+      "remark": "网盘源💿",
       "webSite": "https://www.nanf.cc",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/nanfdj.js",
       "type": 101
     },
     {
-      "name": "雷鲸 | 网盘",
+      "name": "🐋雷鲸",
       "version": 4,
-      "remark": "",
+      "remark": "网盘源💿",
       "webSite": "https://www.leijing.xyz",
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
@@ -163,16 +165,16 @@
       "type": 100
     },
     {
-      "name": "校长 | 网盘",
+      "name": "🎓校长",
       "version": 1,
-      "remark": "🍃豆儿出品，不属精品！",
+      "remark": "网盘源💿",
       "webSite": "https://xzys.fun",
       "codeID": "7T4PFJobJZegoH1hLUyEL1HOGSoNuwR6",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_xzys.txt",
       "type": 101
     },
     {
-      "name": "茉莉 | 网盘",
+      "name": "🎬茉莉",
       "version": 2,
       "remark": "🍃豆儿出品，不属精品！支持在线播放和网盘",
       "webSite": "https://www.hdmoli.pro/",
@@ -181,9 +183,9 @@
       "type": 101
     },
    {
-      "name": "瓜子 | 直连",
+      "name": "🍉瓜子",
       "version": 2,
-      "remark": "v1.6.53 及以上版本",
+      "remark": "在线播放直连🔗",
       "webSite": "https://api.9cec79d.com",
       "codeID": "ra5Z3wtXKshzSMK2",
       "instance": "gzapp20241001",
@@ -192,9 +194,9 @@
       "type": 100
     },
     {
-      "name": "趣盘 | 搜索",
+      "name": "🔎趣盘",
       "version": 3,
-      "remark": "",
+      "remark": "仅搜索🔍",
       "webSite": "https://pan.funletu.com",
       "codeID": "LO5aQSJYBZLrRD1g",
       "instance": "funletu20241124",
@@ -202,9 +204,9 @@
       "type": 100
     },
     {
-      "name": "天逸 | 搜索",
+      "name": "🔎天逸",
       "version": 3,
-      "remark": "",
+      "remark": "仅搜索🔍",
       "webSite": "https://www.tianyiso.com",
       "codeID": "DU9z425w42hk9B8l",
       "instance": "tianyiso20241129",
