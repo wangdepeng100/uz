@@ -5,7 +5,6 @@
       "version": 11,
       "remark": "搜不到就算了，不要那么执着",
       "env": "弹幕解析地址##内置 4 条线路。格式 地址1;地址2",
-      "codeID": "4Y6DDMATfbw0Rg0Y2AOGpfmpU2cgspFf",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu3.js",
       "type": 400
     }
